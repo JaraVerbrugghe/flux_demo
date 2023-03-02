@@ -16,7 +16,7 @@ spec:
     createNamespace: true
   interval: 1m0s
   releaseName: super-api
-  targetNamespace: mega-api
+  targetNamespace: super-api
   values:
     image:
       tag: 1.0.7
